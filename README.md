@@ -1,2 +1,2 @@
 # Mytalent-
-a project that will create 
+music streaming app
